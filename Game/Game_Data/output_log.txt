@@ -1,0 +1,1077 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   NVIDIA
+    VRAM:     1982 MB
+    Driver:   30.0.14.7141
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Welcome\Desktop\Game\Client\dragonboy\Dragonboy\Game\Game_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 75Hz; virtual: 2560x1440 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.936400 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4108 -> priority: 1 
+  Thread -> id: 3238 -> priority: 1 
+  Thread -> id: 3d44 -> priority: 1 
+  Thread -> id: 4c34 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): 
+sendMessage command: -38
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 1084.
+Total: 1.056500 ms (FindLiveObjects: 0.042200 ms CreateObjectMapping: 0.035900 ms MarkObjects: 0.882500 ms  DeleteObjects: 0.095600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -41
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 989.
+Total: 1.005700 ms (FindLiveObjects: 0.032600 ms CreateObjectMapping: 0.021900 ms MarkObjects: 0.936600 ms  DeleteObjects: 0.013900 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 1.050400 ms (FindLiveObjects: 0.024500 ms CreateObjectMapping: 0.020100 ms MarkObjects: 1.003500 ms  DeleteObjects: 0.001700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: 11
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+
+Unloading 140 unused Assets to reduce memory usage. Loaded Objects now: 907.
+Total: 1.551500 ms (FindLiveObjects: 0.038100 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.385400 ms  DeleteObjects: 0.088100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 908.
+Total: 1.379900 ms (FindLiveObjects: 0.035300 ms CreateObjectMapping: 0.022300 ms MarkObjects: 1.319900 ms  DeleteObjects: 0.002100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 909.
+Total: 1.403700 ms (FindLiveObjects: 0.035400 ms CreateObjectMapping: 0.022400 ms MarkObjects: 1.334800 ms  DeleteObjects: 0.010700 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -103
+sendMessage getData(): System.SByte[]
+sendMessage command: -103
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -40
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -40
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 232 unused Assets to reduce memory usage. Loaded Objects now: 938.
+Total: 1.616200 ms (FindLiveObjects: 0.082600 ms CreateObjectMapping: 0.044700 ms MarkObjects: 1.361900 ms  DeleteObjects: 0.126600 ms)
+
+sendMessage getData(): 
+sendMessage command: -16
+sendMessage getData(): System.SByte[]
+sendMessage command: 33
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: 32
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): 
+sendMessage command: -23
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 938.
+Total: 1.566700 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.023700 ms MarkObjects: 1.470500 ms  DeleteObjects: 0.033600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: 11
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 1.446300 ms (FindLiveObjects: 0.037000 ms CreateObjectMapping: 0.024300 ms MarkObjects: 1.365900 ms  DeleteObjects: 0.018600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 1.407900 ms (FindLiveObjects: 0.038200 ms CreateObjectMapping: 0.023800 ms MarkObjects: 1.343000 ms  DeleteObjects: 0.002500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 1.639800 ms (FindLiveObjects: 0.041400 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.541400 ms  DeleteObjects: 0.002100 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -103
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): 
+sendMessage command: -23
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 940.
+Total: 1.394900 ms (FindLiveObjects: 0.036300 ms CreateObjectMapping: 0.023500 ms MarkObjects: 1.321700 ms  DeleteObjects: 0.012900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 967.
+Total: 1.517700 ms (FindLiveObjects: 0.041900 ms CreateObjectMapping: 0.025300 ms MarkObjects: 1.436200 ms  DeleteObjects: 0.013700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 975.
+Total: 1.794800 ms (FindLiveObjects: 0.055500 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.690500 ms  DeleteObjects: 0.002800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 975.
+Total: 1.582200 ms (FindLiveObjects: 0.056300 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.467900 ms  DeleteObjects: 0.002200 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -20
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: -60
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): System.SByte[]
+sendMessage command: -45
+sendMessage getData(): 
+sendMessage command: -15
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 926.
+Total: 1.637600 ms (FindLiveObjects: 0.040400 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.473000 ms  DeleteObjects: 0.086000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -34
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 893.
+Total: 2.052100 ms (FindLiveObjects: 0.063300 ms CreateObjectMapping: 0.073000 ms MarkObjects: 1.820300 ms  DeleteObjects: 0.094700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 2.019600 ms (FindLiveObjects: 0.058000 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.914500 ms  DeleteObjects: 0.012400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 1.574200 ms (FindLiveObjects: 0.106100 ms CreateObjectMapping: 0.029800 ms MarkObjects: 1.435800 ms  DeleteObjects: 0.002100 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -20
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disconnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon11.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -111
+sendMessage getData(): System.SByte[]
+sendMessage command: -29
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): 
+sendMessage command: -38
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 823.
+Total: 1.742900 ms (FindLiveObjects: 0.040300 ms CreateObjectMapping: 0.041800 ms MarkObjects: 1.559300 ms  DeleteObjects: 0.101100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -41
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1079.
+Total: 1.536900 ms (FindLiveObjects: 0.050700 ms CreateObjectMapping: 0.037900 ms MarkObjects: 1.445500 ms  DeleteObjects: 0.002300 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 823.
+Total: 1.446900 ms (FindLiveObjects: 0.036800 ms CreateObjectMapping: 0.023100 ms MarkObjects: 1.384800 ms  DeleteObjects: 0.001800 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: 34
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -34
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 1.522800 ms (FindLiveObjects: 0.039400 ms CreateObjectMapping: 0.022600 ms MarkObjects: 1.435000 ms  DeleteObjects: 0.025100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 1.400100 ms (FindLiveObjects: 0.034500 ms CreateObjectMapping: 0.023000 ms MarkObjects: 1.340000 ms  DeleteObjects: 0.001900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 1.587700 ms (FindLiveObjects: 0.038000 ms CreateObjectMapping: 0.023000 ms MarkObjects: 1.524300 ms  DeleteObjects: 0.002000 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): 
+sendMessage command: -33
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 873.
+Total: 1.653700 ms (FindLiveObjects: 0.042000 ms CreateObjectMapping: 0.023600 ms MarkObjects: 1.565500 ms  DeleteObjects: 0.022100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: 11
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -32
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 912.
+Total: 1.531500 ms (FindLiveObjects: 0.040100 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.433900 ms  DeleteObjects: 0.029400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 913.
+Total: 1.548200 ms (FindLiveObjects: 0.038600 ms CreateObjectMapping: 0.023900 ms MarkObjects: 1.471900 ms  DeleteObjects: 0.013200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 913.
+Total: 1.428200 ms (FindLiveObjects: 0.037500 ms CreateObjectMapping: 0.023400 ms MarkObjects: 1.364800 ms  DeleteObjects: 0.002000 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: 66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: 44
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 33
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: 32
+sendMessage getData(): System.SByte[]
+sendMessage command: -43
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 959.
+Total: 1.643700 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.024400 ms MarkObjects: 1.542500 ms  DeleteObjects: 0.038100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 986.
+Total: 1.576300 ms (FindLiveObjects: 0.039700 ms CreateObjectMapping: 0.023500 ms MarkObjects: 1.510000 ms  DeleteObjects: 0.002400 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -91
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -28
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 937.
+Total: 1.621700 ms (FindLiveObjects: 0.046200 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.532100 ms  DeleteObjects: 0.012500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): 
+sendMessage command: -39
+sendMessage getData(): 
+sendMessage command: -39
+
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 979.
+Total: 1.617500 ms (FindLiveObjects: 0.044300 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.457900 ms  DeleteObjects: 0.078100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 979.
+Total: 1.488600 ms (FindLiveObjects: 0.037000 ms CreateObjectMapping: 0.023100 ms MarkObjects: 1.425800 ms  DeleteObjects: 0.002200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 979.
+Total: 1.537300 ms (FindLiveObjects: 0.041300 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.464700 ms  DeleteObjects: 0.002600 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -63
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 33
+sendMessage getData(): System.SByte[]
+sendMessage command: 32
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: 66
+sendMessage getData(): System.SByte[]
+sendMessage command: -66
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 969.
+Total: 1.611100 ms (FindLiveObjects: 0.038500 ms CreateObjectMapping: 0.037000 ms MarkObjects: 1.472000 ms  DeleteObjects: 0.063100 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 33
+sendMessage getData(): System.SByte[]
+sendMessage command: 32
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 966.
+Total: 1.762400 ms (FindLiveObjects: 0.038100 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.616300 ms  DeleteObjects: 0.073100 ms)
+
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: -7
+sendMessage getData(): System.SByte[]
+sendMessage command: 33
+sendMessage getData(): System.SByte[]
+sendMessage command: -67
+sendMessage getData(): System.SByte[]
+sendMessage command: 32
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
