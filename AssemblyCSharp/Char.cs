@@ -1396,6 +1396,10 @@ public class Char : IMapObject
 
 	public void addInfo(string info)
 	{
+		if (info == "cho con đậu")
+		{
+			GameScr.gI().doUseHP();
+		}	
 		if (chatInfo == null)
 			chatInfo = new Info();
 		chatInfo.addInfo(info, 0, null, false);

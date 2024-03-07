@@ -30,9 +30,9 @@ public class ServerListScreen : mScreen, IActionListener
 
 	private int lY;
 
-	public static string smartPhoneVN = "Vũ trụ 1:dragon1.teamobi.com:14445:0,0,0";
+	public static string smartPhoneVN = "Vũ trụ 1:localhost:14445:0,0,0";
 
-	public static string javaVN = "Vũ trụ 1:112.213.94.23:14445:0,Vũ trụ 2:210.211.109.199:14445:0,Vũ trụ 3:112.213.85.88:14445:0,Vũ trụ 4:27.0.12.164:14445:0,Vũ trụ 5:27.0.12.16:14445:0,Vũ trụ 6:27.0.12.173:14445:0,Vũ trụ 7:112.213.94.223:14445:0,Vũ trụ 8:27.0.14.66:14446:0,Vũ trụ 9:27.0.14.66:14447:0,Vũ trụ 10:27.0.14.66:14445:0,Vũ trụ 11:112.213.85.35:14445:0,Võ đài liên vũ trụ:27.0.12.173:20000:0,Universe 1:52.74.230.22:14445:1,Naga:52.74.230.22:14446:2,0,0";
+	public static string javaVN = "Vũ trụ 1:localhost:14445,0,0,0";
 
 	public static string smartPhoneIn = "Naga:dragon.indonaga.com:14446:2,2,0";
 

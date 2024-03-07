@@ -1376,15 +1376,6 @@ public class GameScr : mScreen, IChatable
 				for (int j = 0; j < parts[i].pi.Length; j++)
 				{
 					parts[i].pi[j] = new PartImage();
-
-                    // Read image data
-                    byte[] imageData = new byte[10000];
-                    dataInputStream.readFully(imageData);
-
-                    // Lưu ảnh xuống đĩa cục bộ
-                    string filename = "image_" + i + "_" + j + ".png";
-                    DuyKhanhUtils.SaveImageLocally(imageData, filename);
-
                     parts[i].pi[j].id = dataInputStream.readShort();
 					parts[i].pi[j].dx = dataInputStream.readByte();
 					parts[i].pi[j].dy = dataInputStream.readByte();

@@ -97,7 +97,7 @@ public class Main : MonoBehaviour
 			if (level == 1)
 				Screen.SetResolution(720, 320, false);
 			else
-				Screen.SetResolution(1024, 600, false);
+				Screen.SetResolution(1280, 720, false);
 		}
 	}
 
